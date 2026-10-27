@@ -1,1 +1,8 @@
-.DS_Store
+# Ignore everything
+*
+
+# But allow .c files
+!*.c
+
+# Keep the .gitignore file itself
+!.gitignore
